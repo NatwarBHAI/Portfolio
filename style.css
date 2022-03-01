@@ -1,0 +1,85 @@
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    max-width: 50%;
+    margin: auto;
+    color: blue;
+}
+.header{
+    align-items: center;
+    display: flex;
+}
+.face{
+    height: 150px;
+    width: 150px;
+    object-fit: cover;
+    border-radius: 50%;
+    margin-top: 20px;
+}
+.title{
+    flex: 1;
+    margin-left: 20px;
+}
+.name{
+    color: blue;
+    font-style: italic;
+}
+.coral{
+    color: red;
+    font-style: italic;
+}
+.quali{
+    color: blue;
+    font-style: italic;
+}
+.mail{
+    color: blue;
+    font-style: italic;
+}
+.mail1{
+    color: red;
+    font-style: italic;
+}
+.contact{
+    color: blue;
+    font-style: italic;
+}
+.contact1{
+    color: red;
+    font-style: italic;
+}
+.we{
+    color: blue;
+    font-style: italic;
+}
+.we1{
+    color: red;
+    font-style: italic;
+}
+.hrline{
+    border: 1px solid red;
+}
+.table-head{
+    min-width: 200px;
+    color: red;
+    font-size: 22px;
+    font-style: italic;
+    display: block;
+}
+.marginfix{
+    margin-top: 20px;
+}
+.c{
+    font-size: 20px;
+    line-height: 25px;
+    font-style: italic;
+}
+.b{
+    font-weight: 300;
+    line-height: 25px;
+    font-style: italic;
+}
+.a{
+    font-size: 14px;
+    font-style: italic;
+    margin-top: 20px;
+}
