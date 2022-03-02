@@ -2,10 +2,14 @@ body{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     margin: auto;
     color: blue;
+    margin-left:10px;
+    margin-right:10px;
 }
 .header{
     align-items: center;
     display: flex;
+    margin-left:10px;
+    margin-right:10px;
 }
 .face{
     height: 150px;
