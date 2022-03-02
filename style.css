@@ -7,7 +7,7 @@ body{
 }
 .header{
     align-items: center;
-    display: flex;
+    display: block;
     margin-left:10px;
     margin-right:5px;
 }
