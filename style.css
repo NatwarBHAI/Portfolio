@@ -8,8 +8,8 @@ body{
 .header{
     align-items: center;
     display: flex;
-    margin-left:10px;
-    margin-right:10px;
+    margin-left:50;
+    margin-right:50;
 }
 .face{
     height: 150px;
